@@ -1,3 +1,4 @@
 - Mempelajari menu-menu pada Khanza
 - Mempelajari dasar-dasar java
 - Mencoba iplementasi edit web
+- Mempelajari hardware
