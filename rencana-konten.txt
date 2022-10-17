@@ -6,3 +6,4 @@ Rencana konten
 * Membuat web
 * Struktur data
 - Php
+-Angular
