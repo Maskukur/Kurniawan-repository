@@ -2,4 +2,6 @@ Rencana konten
 
 - Bikin turorian SIMKES Khanza
 - Java
+* Menuat perhitungan
+* Membuat web
 - Php
