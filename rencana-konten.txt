@@ -1,0 +1,5 @@
+Rencana konten
+
+- Bikin turorian SIMKES Khanza
+- Java
+- Php
